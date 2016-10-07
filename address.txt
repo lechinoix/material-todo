@@ -1,0 +1,1 @@
+https://private.is.bnpparibas-ip.com/rwp/Gestion%20de%20projet/Forms/AllItems.aspx?RootFolder=%2Frwp%2FGestion%20de%20projet%2Fbnp-push&FolderCTID=0x012000CDCC5F6C5C94444BABE6329659886287&View=%7B0EE2927D-AC5C-4466-93A5-3F8FEE8725E3%7D#onfig.vm.provision :shell, path: "onStartup.sh", run: "always"
